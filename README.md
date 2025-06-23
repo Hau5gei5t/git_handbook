@@ -147,3 +147,9 @@ git push origin feature-branch
 
     
 - Выберите базовые и сравниваемые ветки, добавьте заголовок и описание.
+
+
+## Полезные материалы
+- [Гайдбук](https://git-scm.com/book/ru/v2)
+- [Плейлист с уроками по Git (eng)](https://www.youtube.com/watch?v=xN1-2p06Urc&list=PLp3qkYQbU5kexG03Z79eU7SpoWtTv7Ww3)
+- [Подробный урок по Git (рус)](https://www.youtube.com/watch?v=0Y-fneoUIO8&pp=0gcJCb4JAYcqIYzv)
